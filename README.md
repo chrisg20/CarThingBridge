@@ -12,5 +12,5 @@ If you do not wish to source boards or print the mount yourself, a plug-and-play
 
 (Optional) Print the mount and install 4 M2.5x3mm inserts into the holes. Place adhesive strips into the slots and attach to the car thing so that the Nocturne logo bar lines up with the left edge of the Car Thing.
 
-Connect the Raspberry Pi to the bridge and the bridge to the Car Thing. Secure the Pi to the mount with 4 M2.5x4mm screws. Ensure the small switch is set to ON (towards the Car Thing)
+Connect the Raspberry Pi to the bridge and the bridge to the Car Thing. Secure the Pi to the mount with 4 M2.5x4mm screws. Ensure the small switch is set to ON (towards the Car Thing).
 
