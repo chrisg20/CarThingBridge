@@ -1,6 +1,8 @@
 # CarThingBridge
 A compact connector board for the Spotify Car Thing and Raspberry Pi Zero, for use with [Nocturne](https://github.com/usenocturne/nocturne-ui).
 
+3D printed mount on Printables [here](https://www.printables.com/model/1098732-car-thing-pi-bridge).
+
 <img width="450" alt="Screenshot 2024-12-04 at 3 33 04 PM" src="https://github.com/user-attachments/assets/b6781614-9ddb-4c03-b561-87ace9c2db6d">
 <img width="530" alt="Screenshot 2024-12-04 at 3 33 04 PM" src="https://github.com/user-attachments/assets/a7247fd7-2eed-4263-aca0-68755e4b5f4a">
 
