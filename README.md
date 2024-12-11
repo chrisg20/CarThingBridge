@@ -18,5 +18,5 @@ Print the mount and install 4 M2.5x3mm inserts into the holes. Place adhesive st
 
 Connect the Raspberry Pi to the bridge and the bridge to the Car Thing. Secure the Pi to the mount with 4 M2.5x4mm screws. Ensure the small switch is set to ON (towards the Car Thing) as shown.
 
-<img width="300" alt="Screenshot 2024-12-04 at 3 33 04 PM" src="https://github.com/user-attachments/assets/effa9ac9-5d73-49a0-9ed0-851f4376d52b">
+<img width="300" alt="Screenshot 2024-12-04 at 3 33 04 PM" src="https://github.com/user-attachments/assets/d034b633-fbca-43ef-a63b-6654b9a20c5e">
 
