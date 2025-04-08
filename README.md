@@ -7,7 +7,7 @@ A compact connector board for the Spotify Car Thing and Raspberry Pi Zero, for u
 <img width="500" alt="Screenshot 2024-12-04 at 3 33 04 PM" src="https://github.com/user-attachments/assets/a7247fd7-2eed-4263-aca0-68755e4b5f4a">
 
 # Ordering Instructions
-I no longer sell completed boards due to lower demand, high tarriffs, etc. 
+I no longer sell completed boards due to lower demand, high tariffs, etc. 
 
 If you want one, it is worth asking on the Nocturne Discord server to see if other users have extra boards that they would be willing to give or sell to you. 
 
