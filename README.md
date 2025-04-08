@@ -10,6 +10,7 @@ A compact connector board for the Spotify Car Thing and Raspberry Pi Zero, for u
 I no longer sell completed boards due to lower demand, high tarriffs, etc. To order boards yourself, follow these steps:
 
 **Order PCB Only (Manual Assembly)**
+
 Manual assembly should only be attempted if you are experienced in soldering very small (0603) components.
 
 * Download the ZIP archive: https://github.com/chrisg20/CarThingBridge/PCB/production/.
