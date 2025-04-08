@@ -9,12 +9,13 @@ A compact connector board for the Spotify Car Thing and Raspberry Pi Zero, for u
 # Ordering Instructions
 I no longer sell completed boards due to lower demand, high tarriffs, etc. To order boards yourself, follow these steps:
 
-**PCB Only (Manual Assembly)**
-Download the ZIP archive: https://github.com/chrisg20/CarThingBridge/PCB/production/.
+**Order PCB Only (Manual Assembly)**
+Manual assembly should only be attempted if you are experienced in soldering very small (0603) components.
 
+* Download the ZIP archive: https://github.com/chrisg20/CarThingBridge/PCB/production/.
 * Visit https://JLCPCB.com and click Order Now.
 * Upload Bridge_v1.zip from the PCB/production/ directory.
-* Set PCB Layers to 2 and Thickness to 0.8mm — this is required for the straddle-mounted USB-C connector.
+* VERY IMPORTANT! Set PCB Layers to 2 and Thickness to 0.8mm — this is required for the straddle-mounted USB-C connector.
 * Order components from Digi-Key, Mouser, etc.
 * Required Components (per PCB):
   * CX60-24S-UNIT (x1)
@@ -23,7 +24,7 @@ Download the ZIP archive: https://github.com/chrisg20/CarThingBridge/PCB/product
   * ZX60-B-5S(31) (x2)
   * 0603WAF5101T5E (x3)
 
-**PCB + Assembly**
+**Order PCB with Assembly**
 
 * Enable PCB Assembly during order setup.
 * On the Bill of Materials page:
