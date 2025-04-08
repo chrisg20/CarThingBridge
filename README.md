@@ -6,9 +6,41 @@ A compact connector board for the Spotify Car Thing and Raspberry Pi Zero, for u
 <img width="500" alt="Screenshot 2024-12-04 at 3 33 04 PM" src="https://github.com/user-attachments/assets/b6781614-9ddb-4c03-b561-87ace9c2db6d">
 <img width="500" alt="Screenshot 2024-12-04 at 3 33 04 PM" src="https://github.com/user-attachments/assets/a7247fd7-2eed-4263-aca0-68755e4b5f4a">
 
-# Tindie Link
+# Ordering Instructions
+I no longer sell completed boards due to lower demand, high tarriffs, etc.
 
-If you do not wish to source boards or print the mount yourself, a plug-and-play board and mount can be purchased [here](https://www.tindie.com/products/chrisg20/car-thing-bridge/).
+To order boards yourself, follow these steps:
+
+**PCB Only (Manual Assembly)**
+Download the ZIP archive: https://github.com/chrisg20/CarThingBridge/PCB/production/.
+
+Visit https://JLCPCB.com and click Order Now.
+
+Upload Bridge_v1.zip from the PCB/production/ directory.
+
+Set PCB Layers to 2 and Thickness to 0.8mm — this is required for the straddle-mounted USB-C connector.
+
+Required Components (per PCB):
+CX60-24S-UNIT (x1)
+CX90M-16P (x1)
+SSSS811101 (x1)
+ZX60-B-5S(31) (x2)
+0603WAF5101T5E (x3)
+
+**PCB + Assembly (Optional — Expensive)**
+Enable PCB Assembly during order setup.
+
+On the Bill of Materials page:
+
+Upload bom.csv from PCB/production/.
+
+Upload positions.csv from PCB/production/.
+
+Review the component placement preview to ensure it looks correct.
+
+I received the following notification and had to pay ~$50 extra for a fixture required for the USB-C connector (C5338340):
+
+"Fixture supplement — as advised by factory, the selected USB connector requires a fixture to prevent damage during assembly, or additional manual labor fees may apply."
 
 # Instructions
 
